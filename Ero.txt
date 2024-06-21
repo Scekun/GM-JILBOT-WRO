@@ -1,0 +1,5 @@
+2x sensor infrarrojo 
+1x sensor ultrasonico 
+1x bread de lego
+2x llantas medianas
+2x llantas grandes
